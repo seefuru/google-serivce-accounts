@@ -8,7 +8,7 @@ termux-setup-storage
 
 cd /sdcard
 
-git clone https://github.com/AtrociousMirrorBot/Create_Google_Services_Accounts
+git clone https://github.com/msi-bulbul/google-serivce-accounts.git
 
 cd Create_Google_Services_Accounts
 
